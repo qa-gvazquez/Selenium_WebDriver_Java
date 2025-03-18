@@ -1,0 +1,9 @@
+# Ignora todos los archivos con extensión:
+*.png
+*.class
+
+#Ignora esta carpeta completamente:
+capturas/
+
+# Ignora este archivo específicamente
+Notas.md
