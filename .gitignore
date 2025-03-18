@@ -2,8 +2,10 @@
 *.png
 *.class
 
-#Ignora esta carpeta completamente:
+#Ignora estas carpetas completamente:
 capturas/
+# .vscode/
+# .idea/
 
 # Ignora este archivo específicamente
 Notas.md
