@@ -1,5 +1,5 @@
 # Ignora todos los archivos con extensión:
-*.png
+# *.png
 *.class
 
 #Ignora estas carpetas completamente:
